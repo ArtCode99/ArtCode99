@@ -18,7 +18,7 @@
 
 # import os
 # source="Text.txt"     #->merge pt ca fisieru e aici, altfel trebuia toata calea
-# destination="/home/ubuntu/PycharmProjects/pythonProject/Text.txt"       #trb ori sa inversam slash-urile si sa le dublam, ori un replace
+# destination="/home/ubuntu/PycharmProjects/pythonProject/Text.txt"      
 # try:
 #         os.replace(source,destination)
 # except FileNotFoundError:
